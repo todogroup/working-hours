@@ -16,9 +16,9 @@ Things we've worked on include but are not limited to…
 
 "Regularly?" you ask? "Yes!" I answer. 
 
-Currently the work days occur once a quarter, on a Friday around 10AM Pacific time. They're typically scheduled for an hour.
+Currently the work days occur once a quarter. They're typically scheduled for an hour.
 
-**THE NEXT WORK DAY IS SCHEDULED FOR:** February 19, 2021
+**THE NEXT WORK DAY IS SCHEDULED FOR:** April 14, 2021 at 10:00 AM PST
 
 ## Calendar invite
 
