@@ -18,7 +18,7 @@ Things we've worked on include but are not limited to…
 
 Currently the work days occur once a quarter. They're typically scheduled for an hour.
 
-**THE NEXT WORK DAY IS SCHEDULED FOR:** Wednesday, September 22, 2021 at 8:30 AM PST
+**THE NEXT WORK DAY IS SCHEDULED FOR:** Wednesday, November 17, 2021 at 8:30 AM PST
 
 ## Calendar invite
 
