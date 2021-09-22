@@ -22,7 +22,7 @@ Currently the work days occur once a quarter. They're typically scheduled for an
 
 ## Calendar invite
 
-If you'd like to be on the invite for the next event, please ping @amye on the TODO Group Slack. She'll make sure you receive the reminder.
+If you'd like to be on the invite for the next event, please ping Ana Jimenez (TODO PM) on the TODO Group Slack. She'll make sure you receive the reminder.
 
 ## Process
 
