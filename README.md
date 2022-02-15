@@ -18,6 +18,7 @@ Here is a list of things that we expect people to work during the WDA meetings. 
 * 📩 Add [OSPONews content for next month](https://github.com/todogroup/ospology/tree/main/newsletter#how-to-contribute-to-osponews)
 * 🧑‍💻 Capure [new OSPO Job Descriptions](https://landscape.todogroup.org/guide#ospo-career-path)
 * 📌 Add [new tech & open source conferences](https://github.com/todogroup/presentations/blob/main/2022-tech-events.md) to the 2022 list
+* 🔭 Add new tools for [Awesome OSS Management tooling list](https://github.com/todogroup/awesome-ospo#awesome-oss-management-)
 
 ### *"I'm in a working group" tasks*
 
