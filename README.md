@@ -51,7 +51,9 @@ Work days occur once a month and scheduled for two hours.
 
 ## Calendar invites
 
-Calendar invites are sent via TODO Mailing list ([Community](https://docs.google.com/forms/d/e/1FAIpQLSeU0YGM_IJ6gY8E5IIiwXKD_FZi3kAVc4E9_-3dtTDyKMSjdA/viewform) and General Member) and notified at [TODO Slack general channel](https://slack.todogroup.org/)
+Calendar invites are sent via TODO Mailing list ([Community](https://docs.google.com/forms/d/e/1FAIpQLSeU0YGM_IJ6gY8E5IIiwXKD_FZi3kAVc4E9_-3dtTDyKMSjdA/viewform) and General Member) and notified at [TODO Slack general channel](https://slack.todogroup.org/).
+
+Also, we provide an ICS calendar file  for both, AMER and EMEA & APAC, to easily import the meeting series in any agenda
 
 If you'd like to be on the invite for the next event, please ping Ana Jimenez (TODO PM) on the TODO Group Slack. She'll make sure you receive the reminder.
 
