@@ -1,5 +1,6 @@
 [![todo contributors](https://img.shields.io/badge/TODO-Contributors-%23ecf87f)](https://github.com/todogroup)
 [![todo newcomers](https://img.shields.io/badge/TODO-Newcomers-%23adb6ff)](https://todogroup.org/community/)
+[![todo newcomers](https://img.shields.io/badge/TODO-Maintainer-%234120a9)](https://todogroup.org/community/)
 # Work Day Activity Tracker
 
 This repo is for tracking activities that we work on during TODO Group Work Days.
