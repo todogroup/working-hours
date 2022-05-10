@@ -44,21 +44,20 @@ Here is a list of things that we expect people to work during the WDA meetings. 
 
 Work days occur once a month and scheduled for two hours.
 
-**THE NEXT WORK DAY ARE SCHEDULED FOR:** 
+**WORK DAYS ARE SCHEDULED FOR:** 
 
 | 🌏 Meeting | 💬 Facilitator | 🕙 Day & time | 
 | --- | --- | --- |
-| AMER | Duane | Wednesday, March 9, 2022 at 16:30 PM UTC |
-| EMEA & APAC | Ana| Monday, March 14, 2022 at 10:00 AM UTC|
+| AMER | Duane | [Second Wednesday of the month at 16:30 PM UTC](https://zoom.us/j/96680666202?pwd=UVNJdVhHS1JiSVRtZFBDTjBVTEFQUT09) |
+| EMEA & APAC | Ana| [Second Monday of the monthat 10:00 AM UTC](https://zoom.us/j/91954003389?pwd=Qk4rR3drQ0UwSXdBWDE3eE1za3V5Zz09)|
 
 
 ## Calendar invites
 
 Calendar invites are sent via TODO Mailing list ([Community](https://docs.google.com/forms/d/e/1FAIpQLSeU0YGM_IJ6gY8E5IIiwXKD_FZi3kAVc4E9_-3dtTDyKMSjdA/viewform) and General Member) and notified at [TODO Slack general channel](https://slack.todogroup.org/).
 
-Also, we provide an ICS calendar file  for both, AMER and EMEA & APAC, to easily import the meeting series in any agenda
+Also, we provide an ICS calendar file  for both, AMER and EMEA & APAC, to easily import the meeting series in any agenda at todogroup.org/community.
 
-If you'd like to be on the invite for the next event, please ping Ana Jimenez (TODO PM) on the TODO Group Slack. She'll make sure you receive the reminder.
 
 ## Process
 
