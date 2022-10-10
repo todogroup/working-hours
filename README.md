@@ -22,6 +22,7 @@ Here is a list of things that we expect people to work during the WDA meetings. 
 * 🧑‍💻 Capture [new OSPO Job Descriptions](https://landscape.todogroup.org/guide#ospo-career-path)
 * 📌 Add [new tech & open source conferences](https://github.com/todogroup/presentations/blob/main/2022-tech-events.md) to the 2022 list
 * 🔭 Add new tools for [Awesome OSS Management tooling list](https://github.com/todogroup/awesome-ospo#awesome-oss-management-)
+* 🧭 Work on [OSPO Mind Map](https://github.com/todogroup/ospology/tree/main/ospo-mindmap) structure
 
 ### *"I'm in a working group" tasks*
 
@@ -31,8 +32,7 @@ Here is a list of things that we expect people to work during the WDA meetings. 
 ### *"I have time and want to improve outdated TODO resources" tasks*
 
 * 💻 Work on [content for the new TODO website](https://github.com/todogroup/todogroup.org/issues/210) (please ping @anajsana for more info)
-* 📊 Share [feedback to OSPO 2022 Survey](https://github.com/todogroup/osposurvey/tree/master/2022#welcome-to-ospo-survey-2022-planning)
-* 📖 Work on [General OSPO Guide](https://landscape.todogroup.org/guide) structure
+* 📖 [Improve OSPO 101 Courses (training) with more modules](https://github.com/todogroup/ospo101)
 * 🧩 [Update old](https://landscape.todogroup.org/guide#ospos-in-practice) or [create new OSPO Case Studies](https://github.com/todogroup/todogroup.org/issues?q=is%3Aissue+is%3Aopen+label%3A%22use+case%22)
 
 ### *"I have long term experience with TODO repo and GH project" tasks*
