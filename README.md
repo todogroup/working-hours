@@ -23,6 +23,8 @@ Here is a list of things that we expect people to work during the WDA meetings. 
 * 📌 Add [new tech & open source conferences](https://github.com/todogroup/presentations/blob/main/2022-tech-events.md) to the 2022 list
 * 🔭 Add new tools for [Awesome OSS Management tooling list](https://github.com/todogroup/awesome-ospo#awesome-oss-management-)
 * 🧭 Work on [OSPO Mind Map](https://github.com/todogroup/ospology/tree/main/ospo-mindmap) structure
+* 💚 Add new OSPOs or tooling to the [OSPO Landscape](https://github.com/todogroup/ospolandscape)
+* 💬 Help with translations!
 
 ### *"I'm in a working group" tasks*
 
