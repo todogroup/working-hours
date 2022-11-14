@@ -13,7 +13,7 @@ This repo is for tracking activities that we work on during OSPOlogy Working Hou
 
 ## What are working hours?
 
-Work Days are primarily for doing cleanup on the various issues and PRs in the [TODO Group GitHub organisation](https://github.com/todogroup). We've found that if we don't regularly set aside time to do these tasks, they never get done.
+Working Hours are primarily for doing cleanup on the various issues and PRs in the [TODO Group GitHub organisation](https://github.com/todogroup). We've found that if we don't regularly set aside time to do these tasks, they never get done.
 
 Here is a list of things that we expect people to work during the WDA meetings. The list is sorted by TODO project contribution level, in descending order:
 
