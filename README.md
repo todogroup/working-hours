@@ -3,14 +3,14 @@
 [![todo newcomers](https://img.shields.io/badge/TODO-Maintainer-%234120a9)](https://todogroup.org/community/)
 # Work Day Activity Tracker
 
-This repo is for tracking activities that we work on during TODO Group Work Days.
+This repo is for tracking activities that we work on during OSPOlogy Working Hours.
 
-- [What is a Work Day?](#what-is-a-work-day)
+- [What are working hours?](#what-are-working-hours)
 - [Schedule and meetings](#schedule-and-meetings)
 - [Calendar invites](#calendar-invites)
 - [Process](#process)
 
-## What is a Work Day?
+## What are working hours?
 
 Work Days are primarily for doing cleanup on the various issues and PRs in the [TODO Group GitHub organisation](https://github.com/todogroup). We've found that if we don't regularly set aside time to do these tasks, they never get done.
 
@@ -19,7 +19,7 @@ Here is a list of things that we expect people to work during the WDA meetings. 
 ### *"I'm new" tasks*
 
 * 📩 Add [OSPONews content for next month](https://github.com/todogroup/ospology/tree/main/newsletter#how-to-contribute-to-osponews)
-* 🧑‍💻 Capture [new OSPO Job Descriptions](https://landscape.todogroup.org/guide#ospo-career-path)
+* 🧑‍💻 Capture [new OSPO Job Descriptions](https://github.com/todogroup/job-descriptions)
 * 📌 Add [new tech & open source conferences](https://github.com/todogroup/presentations/blob/main/2022-tech-events.md) to the 2022 list
 * 🔭 Add new tools for [Awesome OSS Management tooling list](https://github.com/todogroup/awesome-ospo#awesome-oss-management-)
 * 🧭 Work on [OSPO Mind Map](https://github.com/todogroup/ospology/tree/main/ospo-mindmap) structure
@@ -34,7 +34,7 @@ Here is a list of things that we expect people to work during the WDA meetings. 
 ### *"I have time and want to improve outdated TODO resources" tasks*
 
 * 📖 [Improve OSPO 101 Courses (training) with more modules](https://github.com/todogroup/ospo101)
-* 🧩 [Update old](https://landscape.todogroup.org/guide#ospos-in-practice) or [create new OSPO Case Studies](https://github.com/todogroup/todogroup.org/issues?q=is%3Aissue+is%3Aopen+label%3A%22use+case%22)
+* 🧩 [Update old](https://todogroup.org/guides/#ospo-case-studies) or [create new OSPO Case Studies](https://github.com/todogroup/todogroup.org/issues?q=is%3Aissue+is%3Aopen+label%3A%22use+case%22)
 
 ### *"I have long term experience with TODO repo and GH project" tasks*
 * ⚙️ Clean up access to repos
@@ -63,9 +63,8 @@ Also, we provide an ICS calendar file  for both, AMER and EMEA & APAC, to easily
 ## Process
 
 1) Read this README documentation
-2) Go to [2022 WDA List](https://github.com/todogroup/work-day-activities/issues?q=is%3Aissue+is%3Aopen+label%3A2022)
-3) Choose the section you wish to work on today (guides, ospology, whitepapers, etc)
-4) Go to the dedicated repo and check the open issues available
+2) Choose the section you wish to work on today (guides, ospology, whitepapers, etc)
+3) Go to the dedicated repo and check the open issues available
 
 Typically people will send event reminders via Slack and email in advance of the event, so you can start thinking of what you'd like to work on.
 
@@ -73,4 +72,4 @@ On the work day itself, we all gather in the Zoom meeting and touch base, sharin
 
 ## Join us!
 
-Work days are a great way to see and make friends in TODO Group while also contributing to the community. It's very casual but also productive. Come be a part of the fun!
+Working Hours are a great way to see and make friends in TODO while also contributing to the community. It's very casual but also productive. Come be a part of the fun!
